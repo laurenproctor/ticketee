@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Ticketee::Application.config.secret_token = 'a921df1321cfd031ace02ac91c8f8e468aa7092a744e160f638ef6c83d1040e263d7df2ce9eb6337c0f6f1a6e0f592ae3b2bdbae7106e9adf000a8c770e12aad'
+Ticketee::Application.config.secret_token = 'b8a0072cf8341f85ed6c00f37f298038dae1d7b1e4619e35abd5098d2e06359b162f92acd8a21e0b7dc2fc8a737693ea68a666eaf851a91afd8a39ed09e86caf'
