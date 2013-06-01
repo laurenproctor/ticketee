@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'haml-rails'
 
 group :test, :development do
 	gem 'rspec-rails', '~> 2.5'
@@ -30,6 +31,7 @@ group :test do
 	gem 'cucumber-rails'
 	gem 'capybara'
 	gem 'database_cleaner'
+	gem 'better_errors'
 end
 
 # To use ActiveModel has_secure_password
